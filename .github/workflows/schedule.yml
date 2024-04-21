@@ -9,7 +9,7 @@ jobs:
   update-gist:
     runs-on: ubuntu-latest
     steps:
-      - name: 9a2d3c2f0fa38a6f43b655fb6f3bcfcc
+      - name: 4c17db43734a1beeb956b7b139b38f12
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
